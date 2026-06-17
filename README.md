@@ -18,14 +18,6 @@
 
 </div>
 
-# 📊 GitHub Stats:
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=V4l33eria&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=V4l33eria&theme=synthwave&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=V4l33eria&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
 
 ---
 <div align="center">
