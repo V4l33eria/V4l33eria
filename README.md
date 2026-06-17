@@ -2,9 +2,6 @@
 <div align="center">
 🚀 Estudiante de TICs | 19 años<br>
 📚 Enfocada en desarrollo de software y tecnologías emergentes<br>
-💡 Siempre aprendiendo nuevas herramientas y lenguajes de programación<br>
-🔧 Este es mi espacio para experimentar, crear y compartir código<br><br>
-<i>"Si lo puedes imaginar, lo puedes programar"</i> ✨
 </div>
 
 ## 🌐 Socials:
@@ -27,20 +24,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=V4l33eria&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=V4l33eria&theme=synthwave&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=V4l33eria&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=V4l33eria&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
-### ✍️ Random Dev Quote
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
